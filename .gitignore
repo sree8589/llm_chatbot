@@ -1,4 +1,4 @@
 llm_chatbot.egg-info
 .ipynb_checkpoints
 llama-2-7b-chat.ggmlv3.q4_0.bin
-.env.env
+.env
